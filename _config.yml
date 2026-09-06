@@ -1,0 +1,34 @@
+author: Paul Jenkins
+url: https://www.tmwlvrn.com
+#logo: /assets/images/home-blog-card.png
+social:
+  name: tmuWolverine
+  links:
+    - https://github.com/temuwolverine
+    
+    #url: ""
+#baseurl: ""
+title: "tmuWolverine"
+
+sass:
+  sourcemap: never
+plugins:
+  - jekyll-toc  
+
+postcss:
+  cache: false
+  minify: true
+
+exclude:
+  - .gitignore
+  - bin
+  - node_modules
+  - package-lock.json
+  - postcss.config.js
+  - README.md
+  # - assets/css/tailwind.scss
+
+# files Jekyll should not delete from .site
+keep_files:
+  - assets/css/tailwind.css
+  - assets/css/tailwind.css.map
