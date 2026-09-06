@@ -5,16 +5,17 @@ social:
   name: tmuWolverine
   links:
     - https://github.com/temuwolverine
-    
-    #url: ""
-#baseurl: ""
+    - https://www.youtube.com/@tmuWolverine
+locale : en_au
 title: "tmuWolverine"
+logo: /assets/images/logo.png
 
 sass:
   sourcemap: never
+
 plugins:
   - jekyll-toc  
-
+  - jekyll-seo-tag
 postcss:
   cache: false
   minify: true
