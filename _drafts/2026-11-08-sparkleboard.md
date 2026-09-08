@@ -1,0 +1,25 @@
+---
+layout: project
+title: "SparkleBoard - USBPD+buck"
+#tags: [esp32, 3d printing, open source, woodworking, automation]
+#links:
+#  - link : https://github.com/TemuWolverine/HonkLock
+#    name: GitHub
+#    icon: github
+#
+#  - link: https://www.youtube.com/watch?v=cPmEKW6hQlME
+#    name: YouTube
+#    icon: youtube
+image: /assets/images/projectcover.jpg
+
+#files: 
+#  - link: https://github.com/TemuWolverine/LouderESP32_Case_And_Firmware/blob/main/LouderESP32%20Case.f3z
+#    name: "F3D"
+#
+#  - name: "3MF"
+#    link: https://makerworld.com/en/models/3158598-louder-esp32-steaming-case#profileId-3569224
+
+highlight:  | 
+        
+---
+
