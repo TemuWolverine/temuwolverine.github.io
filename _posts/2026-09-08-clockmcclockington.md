@@ -2,17 +2,13 @@
 layout: project
 title: "ClockMcClockington"
 tags: [esp32, 3d printing, open source, clock, voice]
-
 image: /assets/images/2026-09-08-clockmcclockington.jpg
-#files: 
-#  - link: https://github.com/TemuWolverine/LouderESP32_Case_And_Firmware/blob/main/LouderESP32%20Case.f3z
-#    name: "F3D"
-#
-#  - name: "3MF"
-#    link: https://makerworld.com/en/models/3158598-louder-esp32-steaming-case#profileId-3569224
-#
+files: 
+  - name: "3MF"
+    link: https://makerworld.com/en/models/3282238-clock-mcclockington-esp32-smart-clock#profileId-3723050
+
 links:
-  - link: https://www.youtube.com/watch?v=cPmEKW6hQlME
+  - link: https://www.youtube.com/watch?v=fxZZN2AQnY0
     name: YouTube
     icon: youtube
 
