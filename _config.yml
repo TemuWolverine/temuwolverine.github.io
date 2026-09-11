@@ -9,7 +9,8 @@ social:
 locale : en_au
 title: "tmuWolverine"
 logo: /assets/images/logo.png
-
+picture: 
+  ignore_missing_images: true
 sass:
   sourcemap: never
 
