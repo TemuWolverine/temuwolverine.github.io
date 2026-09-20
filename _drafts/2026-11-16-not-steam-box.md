@@ -1,11 +1,11 @@
 ---
 layout: project
-title: "SparkleBoard - USBPD+buck"
-tags: [esp32, open source, USB-PD, power]
-links:
-  - link : https://github.com/TemuWolverine/Circuits/tree/master/SparkleBoard
-    name: GitHub
-    icon: github
+title: "Not A Steambox"
+#tags: [esp32, 3d printing, open source, woodworking, automation]
+#links:
+#  - link : https://github.com/TemuWolverine/HonkLock
+#    name: GitHub
+#    icon: github
 #
 #  - link: https://www.youtube.com/watch?v=cPmEKW6hQlME
 #    name: YouTube
