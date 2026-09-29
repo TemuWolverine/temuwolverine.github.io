@@ -8,7 +8,7 @@
             "args": [
                 "bash",
                 "-lic",
-                "JEKYLL_ENV=production bundle exec jekyll serve --force_polling --future --drafts"
+                "JEKYLL_ENV=production bundle exec jekyll serve --force_polling"
             ],
             "problemMatcher": [],
             "isBackground": true,
